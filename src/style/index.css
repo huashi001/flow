@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: rgb(63, 62, 62);
+  text-align: center;
+}
+#c1{
+  background: url(../assets/game_bg_2_hd.jpg);
+}
